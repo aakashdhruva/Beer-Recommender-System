@@ -53,4 +53,3 @@ Special thanks to the course instructors and my peers for their invaluable input
 
 ---
 
-**Additional Note:** Ensure that all the links (like the repository link and license link) are correctly set. You might also want to add more specific instructions or examples under each section for clarity. This README provides a detailed overview of your project, making it easier for others to understand and contribute to your work.
